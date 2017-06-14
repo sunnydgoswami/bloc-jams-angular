@@ -1,0 +1,15 @@
+{
+  "name": "bloc-jams-angular",
+  "version": "3.10.10",
+  "description": "\"\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sunnydgoswami/bloc-jams-angular.git)"
+  },
+  "author": "Sunny Goswami <sunnydgoswami@gmail.com>",
+  "license": "ISC"
+}
